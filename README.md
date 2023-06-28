@@ -1,4 +1,5 @@
-IA_halos Repository
+# IA_halos Repository
+
 Welcome to the IA_halos repository! This repository aims to provide an introduction to key concepts in weak lensing, cosmic shear, and intrinsic alignment.
 
 Overview
